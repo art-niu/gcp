@@ -1,0 +1,12 @@
+Examples
+https://github.com/kubernetes/examples
+
+Instructions
+https://kubernetes.io/docs/tutorials/
+
+How to Deploy Guestbook
+https://kubernetes.io/docs/tutorials/stateless-application/guestbook/
+
+# GCP Assign External IP to Kubernet Service
+https://medium.com/faun/how-to-assign-external-ip-address-static-to-a-gcp-kubernetes-engine-service-c5be91cdcfd5
+
